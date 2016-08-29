@@ -1,0 +1,17 @@
+{
+  "name": "angular2-in-plain-js",
+  "version": "0.3.0",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "*",
+    "zone.js": "*",
+    "reflect-metadata": "*",
+    "rxjs": "*",
+
+    "@angular/core": "*",
+    "@angular/common": "*",
+    "@angular/compiler": "*",
+    "@angular/platform-browser": "*",
+    "@angular/platform-browser-dynamic": "*"
+  }
+}
